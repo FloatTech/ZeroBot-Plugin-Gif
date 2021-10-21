@@ -58,6 +58,6 @@ func init() { // 插件主体
 		default:
 			picurl = c.other(list[1]) // "灰度", "上翻", "下翻", "左翻", "右翻", "反色", "倒放", "浮雕", "打码", "负片"
 		}
-		ctx.Send(message.Image(picurl))
+		ctx.SendChain(message.Image(picurl))
 	})
 }
