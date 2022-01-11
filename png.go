@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"strconv"
 
-	img "github.com/FloatTech/imgfactory"
+	"github.com/FloatTech/zbputils/img"
 )
 
 // 爬

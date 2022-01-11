@@ -3,7 +3,7 @@ package plugin_gif
 import (
 	"image"
 
-	img "github.com/FloatTech/imgfactory"
+	"github.com/FloatTech/zbputils/img"
 )
 
 // 摸

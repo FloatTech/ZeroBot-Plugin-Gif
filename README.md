@@ -1,5 +1,7 @@
-# ZeroBot-Plugin-Gif
-[ZeroBot QQ机器人](https://github.com/wdvxdr1123/ZeroBot)插件，可以制作各种沙雕gif图
+> 本插件已合并入[ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin)，本仓库不再迭代/维护
+
+# ~~ZeroBot-Plugin-Gif~~
+~~[ZeroBot QQ机器人](https://github.com/wdvxdr1123/ZeroBot)插件，可以制作各种沙雕gif图~~
 > 素材包地址: https://codechina.csdn.net/u011570312/imagematerials
 
 ## 触发方式
